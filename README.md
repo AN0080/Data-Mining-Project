@@ -58,5 +58,7 @@ This study demonstrates the effectiveness of combining multivariate meteorologic
 
 ## Contact and Further Information  
 Chenglin Liu  
+
 Email: liuchenglin080@gmail.com
+
 GitHub: https://github.com/AN0080/Data-Mining-Project.git
